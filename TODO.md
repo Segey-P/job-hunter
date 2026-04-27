@@ -1,9 +1,7 @@
-# Phase 1 — Skeleton Extension
+# Review Specs
 
-- [ ] Set up Vite + `@crxjs/vite-plugin` build pipeline
-- [ ] Create `manifest.json` (MV3, activeTab + storage permissions)
-- [ ] Implement Service Worker stub with message routing
-- [ ] Create Content Script that fills `<input autocomplete="email">` on any page
-- [ ] Create Options page HTML (hardcoded form, no styling yet)
-- [ ] Create Popup UI with "Fill" button
-- [ ] Loaded as unpacked extension, Fill button works on dummy profile
+- [ ] Read `specs/spec-data-model.md` — profile/tracker schemas
+- [ ] Read `specs/spec-fill-strategy.md` — three-tier fill logic
+- [ ] Read `specs/spec-llm-integration.md` — LLM provider & encryption
+- [ ] Read `specs/plan-phases.md` — roadmap & phase breakdown
+- [ ] Read `specs/ref-decisions.md` — decisions made & rationale
